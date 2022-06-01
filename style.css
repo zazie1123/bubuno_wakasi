@@ -1,0 +1,21 @@
+.pink_bk{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+}
+.red_bk{
+    background-color: rgb(255, 0, 43);
+    height: 100px;
+    width: 100px;
+}
+.float_setting{
+    float: left;
+}
+.blue_bk{
+    background-color: aquamarine;
+    height: 110px;
+    width: 210px;
+}
+.shita{
+    height: 100px;
+}
